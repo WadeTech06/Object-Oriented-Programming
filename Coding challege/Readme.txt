@@ -25,3 +25,4 @@ be​ ​ converted​ ​ into​ ​ normal​ ​ game​ ​ pieces​ ​ i
 ● Source​ ​ Block
 ○ Always​ ​ Emits​ ​ Power
 ○ Labeled​ ​ as​ ​ block​ ​ 1 ​ ​ in​ ​ the​ ​ diagram
+[!screenshot](challenge.png)
