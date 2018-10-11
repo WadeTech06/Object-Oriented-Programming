@@ -25,4 +25,6 @@ be​ ​ converted​ ​ into​ ​ normal​ ​ game​ ​ pieces​ ​ i
 ● Source​ ​ Block
 ○ Always​ ​ Emits​ ​ Power
 ○ Labeled​ ​ as​ ​ block​ ​ 1 ​ ​ in​ ​ the​ ​ diagram
-![alt text](https://github.com/WadeTech06/Object-oriented-programming/blob/master/Coding%20challege/challenge.png)
+
+
+![challenge](challenge.png)
