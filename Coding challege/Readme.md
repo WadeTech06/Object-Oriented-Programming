@@ -3,8 +3,6 @@ To run the program you may need to be using a Linux OS
 Open a terminal and navigate to the "a.out" directory
 to run the program just type ./a.out 
 
-IMPORTANT: This program assumes you understand how to play
-
 Coding​ ​ Challenge
 The​ ​ goal​ ​ is​ ​ to​ ​ create​ ​ a ​ ​ specific​ ​ game.​ ​ There​ ​ are​ ​ 8 ​ ​ pieces​ ​ that​ ​ the​ ​ player​ ​ can​ ​ interact
 with,​ ​ and​ ​ 2 ​ ​ special​ ​ pieces​ ​ which​ ​ will​ ​ be​ ​ explained​ ​ later.
